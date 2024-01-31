@@ -169,12 +169,6 @@
                             Branch
                         </a>
                     </li>
-                    <li class="sidebar-item">
-                        <a href="register.php" class="sidebar-link">
-                        <i class="fa-solid fa-registered"></i>
-                            Register
-                        </a>
-                    </li>
                 </ul>
             </div>
         </aside>
