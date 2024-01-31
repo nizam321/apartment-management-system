@@ -10,11 +10,6 @@
             <div class="row">
                 
                 <?php 
-                /*$con = mysqli_connect("localhost","root","","my_ams_db");
-                $sql = "SELECT * FROM tbl_floor";
-                $result = mysqli_query($con,$sql);
-                $data = mysqli_fetch_all($result,MYSQLI_ASSOC);*/
-
                 $connect = mysqli_connect("localhost","root","","my_ams_db");
                 $sql = "SELECT * FROM tbl_floor";
                 $result = mysqli_query($connect,$sql);
